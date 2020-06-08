@@ -1,4 +1,4 @@
-# King County Housing Data Analysis
+# King County Housing Data Analysis - Predicting Sales Price
 
 ## Purpose:
 To develop a model that can predict the price of homes in Kings County based off of the different variables that are avialable to analyze.
