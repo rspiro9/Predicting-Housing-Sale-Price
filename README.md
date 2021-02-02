@@ -1,7 +1,7 @@
 # King County Housing Data Analysis - Predicting Sales Price
 
 ## Purpose:
-To develop a model that can predict the price of homes in Kings County based off of the different variables that are avialable to analyze.
+To develop a model that can predict the price of homes in Kings County based off of the different variables that are available to analyze.
 
 ## Data Science Process Used:
 I leveraged the OSEMN (Obtain, Scrub, Explore, Model, Interpret) process for this project. My notebook is organized into 5 parts, one for each step of this process.
